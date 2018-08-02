@@ -1,0 +1,54 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+  },
+  "education":[
+    {
+      "degree":"B_Tech(computer science and engineering)",
+      "institute":"Siddarth institute of engineering and technology",
+      "data":["2015-19","80%"]
+    },  {
+        "degree":"intermediate(m.p.c)",
+        "institute":"sai jyothi jr college",
+        "data":["2013-15","85%"]
+      },
+      {
+        "degree":"s.s.c",
+        "institute":"Jnana jyothi vidya mandir",
+        "data":["2013","87%"]
+      }
+  ],
+  "skills":[
+    {
+      "title":"Programming Languages",
+      "set":["java","C","python","B"]
+    },
+    {
+      "title":"Web Technology",
+      "set":[ "HTML","CSS","PHP","javascript"]
+
+    },
+      {
+        "title":"Data Bases",
+        "set":["Sql","mySql","Oracle","noSql"]
+      },
+      {
+        "title":"Operating Systems",
+        "set":["Windows","DOS","Linux","Mac"]
+      }
+],
+"achievements":[
+  {
+    "achievedData":"got first Prize in ppt."
+  },
+  {
+    "achievedData":"got first Prize in Technical quiz."
+  },
+  {
+    "achievedData":"got first Prize in singing compitition."
+  }
+
+]
+
+}
